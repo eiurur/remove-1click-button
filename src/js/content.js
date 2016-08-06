@@ -18,7 +18,10 @@
     </span>
     `;
 
-    document.getElementById('a-autoid-7').innerHTML = html;
+    const button = document.getElementById('a-autoid-7');
+    button.innerHTML = html;
+    button.setAttribute('id', '');
+    button.classList.remove('a-button-oneclick');
   }
 
   if(document.getElementById('amsDetailRight')) replaceOneClickButton2ReadRightNowButton();
