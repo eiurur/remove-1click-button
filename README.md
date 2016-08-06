@@ -35,7 +35,7 @@ Kindle Unlimitedに対応していない本の場合、サンプルページに�
 
 ## License
 
-MIT
+[MIT](https://github.com/eiurur/remove-1click-button/raw/master/LICENSE)
 
 ## Other
 
