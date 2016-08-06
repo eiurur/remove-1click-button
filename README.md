@@ -3,7 +3,11 @@ remove-1click-button
 
 Amazonの「1Clickで今すぐ買う」ボタンを削除し、「今すぐ読む」ボタンに置き換えます。
 
+**NOTE**
+
 Kindle Unlimitedに対応していない本の場合、サンプルページに飛びます。
+
+「Kindle Unlimited マイブック」に登録中の本であればそのまま閲覧ページに飛びます。未登録であればサンプルページに飛びます。
 
 ### Before
 
@@ -14,7 +18,6 @@ Kindle Unlimitedに対応していない本の場合、サンプルページに�
 ![before](https://github.com/eiurur/remove-1click-button/raw/master/images/after.png)
 
 # Demo
-
 
 ![demo](https://github.com/eiurur/remove-1click-button/raw/master/images/demo.gif)
 
