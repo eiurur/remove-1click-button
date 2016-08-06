@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "remove-1click-button",
   "description": "remove 1click in Amazon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "permissions": [
     "http://*/*",
     "https://*/*",
