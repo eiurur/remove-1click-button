@@ -9,16 +9,16 @@ Kindle Unlimitedに対応していない本の場合、サンプルページに�
 
 #### Before
 
-![before](https://github.com/eiurur/remove-1click-button/raw/master/before.png)
+![before](https://github.com/eiurur/remove-1click-button/raw/master/images/before.png)
 
 #### After
 
-![before](https://github.com/eiurur/remove-1click-button/raw/master/after.png)
+![before](https://github.com/eiurur/remove-1click-button/raw/master/images/after.png)
 
 # Demo
 
 
-![demo](https://github.com/eiurur/remove-1click-button/raw/master/demo.gif)
+![demo](https://github.com/eiurur/remove-1click-button/raw/master/images/demo.gif)
 
 # Support
 
