@@ -1,0 +1,37 @@
+{
+  "name": "remove-1click-button",
+  "version": "0.0.1",
+  "description": "",
+  "author": "eiurur",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-cached": "^1.1.0",
+    "gulp-changed": "^1.3.0",
+    "gulp-copy": "0.0.2",
+    "gulp-json-editor": "^2.2.1",
+    "gulp-load-plugins": "^0.6.0",
+    "gulp-notify": "^2.0.0",
+    "gulp-open": "^0.3.0",
+    "gulp-pleeease": "^1.0.4",
+    "gulp-plumber": "^0.6.6",
+    "gulp-remember": "^0.3.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-strip-debug": "^1.0.2",
+    "gulp-watch": "^1.0.4",
+    "gulp-zip": "^3.0.2",
+    "require-dir": "^0.1.0",
+    "rimraf": "^2.2.8",
+    "vinyl-source-stream": "^1.0.0",
+    "yargs": "^4.2.0"
+  },
+  "scripts": {
+    "setup": "npm i && gulp build",
+    "start": "gulp",
+    "dist": "gulp zip",
+    "major": "gulp zip --version major",
+    "minor": "gulp zip --version minor",
+    "patch": "gulp zip --version patch"
+  }
+}
