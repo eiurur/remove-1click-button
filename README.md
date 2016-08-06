@@ -5,13 +5,11 @@ Amazonの「1Clickで今すぐ買う」ボタンを削除し、「今すぐ読�
 
 Kindle Unlimitedに対応していない本の場合、サンプルページに飛びます。
 
-現在、作品の個別ページにしか対応しておりません。
-
-#### Before
+### Before
 
 ![before](https://github.com/eiurur/remove-1click-button/raw/master/images/before.png)
 
-#### After
+### After
 
 ![before](https://github.com/eiurur/remove-1click-button/raw/master/images/after.png)
 
